@@ -1,0 +1,9 @@
+name: ChestRefiller
+version: 1.0
+main: me.M4CE.ChestFiller.ChestRefiller
+author: ItzMace
+website: https://www.spigotmc.org/members/itzmace.40743/
+commands:
+      refillchests:
+          description: Chest Refiller Main Command
+          usage: /<command>
