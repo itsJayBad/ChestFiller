@@ -75,11 +75,11 @@ public class ConfigYML {
 				fw.write("    - COOKED_MUTTON\n");
 				fw.write("    - BAKED_POTATO\n");
 				fw.write("    - GOLDEN_CARROT\n");
-				fw.write("    - Bottle_o'_Enchanting\n");
-				fw.write("    - Bottle_o'_Enchanting\n");
-				fw.write("    - Bottle_o'_Enchanting\n");
-				fw.write("    - Bottle_o'_Enchanting\n");
-				fw.write("    - Bottle_o'_Enchanting\n");
+				fw.write("    - BOTTLE_O'_ENCHANTING\n");
+				fw.write("    - BOTTLE_O'_ENCHANTING\n");
+				fw.write("    - BOTTLE_O'_ENCHANTING\n");
+				fw.write("    - BOTTLE_O'_ENCHANTING\n");
+				fw.write("    - BOTTLE_O'_ENCHANTING\n");
 				fw.write("    - DIAMOND\n");
 				fw.write("    - IRON_INGOT\n");
 				fw.write("    - LAPIS_LAZULI\n");
